@@ -2,18 +2,15 @@
   <img width="250" src="LOGO">
 </p>
 
-<h1 align="center"> Project Title </h1>
+<h1 align="center"> ssh-rpc-agent-client </h1>
 <p align="center">
-  <b >One Paragraph of project description goes here</b>
+  <b> Websocket client for ssh-rpc-agent </b>
 </p>
 <br>
 
 [![GitHub release](https://img.shields.io/github/release/hellstein/ssh-rpc-agent-client.svg)](https://github.com/hellstein/ssh-rpc-agent-client/releases)
 ![Github All Releases](https://img.shields.io/github/downloads/hellstein/ssh-rpc-agent-client/total.svg)
-[![Docker Pulls](https://img.shields.io/docker/pulls/hellstein/ssh-rpc-agent-client.svg)](https://hub.docker.com/r/hellstein/ssh-rpc-agent-client/tags/)
 ![Travis (.org) branch](https://img.shields.io/travis/hellstein/ssh-rpc-agent-client/BRANCH.svg)
-[![Docker Automated build](https://img.shields.io/docker/automated/hellstein/ssh-rpc-agent-client.svg)](https://hub.docker.com/r/hellstein/ssh-rpc-agent-client/)
-[![Docker Build Status](https://img.shields.io/docker/build/hellstein/ssh-rpc-agent-client.svg)](https://hub.docker.com/r/hellstein/ssh-rpc-agent-client/builds/)
 ![GitHub](https://img.shields.io/github/license/hellstein/ssh-rpc-agent-client.svg)
 
 # How to use 

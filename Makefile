@@ -1,6 +1,6 @@
 GITBOOK = $(CURDIR)/gitbook
 DOCS = $(CURDIR)/docs
-WSCLIENT = $(CURDIR)/wsclient
+WSCLIENT = $(CURDIR)/sra-client
 OWNER = hellstein
 REPO = ssh-rpc-agent-client
 VERSION = test
