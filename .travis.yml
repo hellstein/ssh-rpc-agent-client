@@ -14,7 +14,6 @@ branches:
   - "/^\\d+\\.\\d+(\\.\\d+)?(-\\S*)?$/"
 install: true
 script:
-- make mk-image VERSION=$TRAVIS_TAG
 - make mk-deployment VERSION=$TRAVIS_TAG
 deploy:
   - provider: releases
