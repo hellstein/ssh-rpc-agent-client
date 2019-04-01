@@ -6,7 +6,7 @@ wget https://github.com/hellstein/ssh-rpc-agent-client/releases/download/0.1.12/
 unzip ssh-rpc-agent-client-0.1.12.zip
 ```
 
-### Start the service
+### Install dependencies
 ```
 cd sra-client
 npm install
